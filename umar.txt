@@ -1,2 +1,2 @@
-hi umar\
-hello
+hi umar
+hello umar
